@@ -4,3 +4,5 @@ trl==0.0.3
 wandb==0.10.32
 torch
 gender_bender
+scikit-learn
+spacy
